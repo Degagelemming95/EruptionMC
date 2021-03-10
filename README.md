@@ -30,7 +30,7 @@ The following things can't be fixed because of Bedrock limitations. They might b
 4. Run `mvn clean install` and locate to the `target` folder.
 
 ## Contributing
-This project is in its Alpha stage and contributions should be made to the main Geyser build at this time. Mian Geyser build can be found at https://geysermc.com
+This project is in its Alpha stage and contributions should be made to the main Geyser build at this time. Mian Geyser build can be found at https://geysermc.org
 
 ## Libraries Used:
 - [NukkitX Bedrock Protocol Library](https://github.com/NukkitX/Protocol)
