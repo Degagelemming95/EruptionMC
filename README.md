@@ -5,11 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 
-ErruptionMC is a fork of GeyserMC which is a bridge between Minecraft Bedrock and Java Edition. 
-
-Modified version of GeyserMC which is an open collaboration software by CubeCraft Games. This project is not affiliated with CubeCraft Games nor any of their services including GeyserMC.
-
-Special thanks to the GeyserMC project for being a base software for us to modify!!
+ErruptionMC is a fork of GeyserMC which is a bridge between Minecraft Bedrock and Java Edition. GeyserMC is an open collaboration software by CubeCraft Games. This project is a modfiied version of GeyserMC and it is not affiliated with CubeCraft Games nor any of their services. This build of Geyser is not supported by GeyserMC, all issues regarding GeyserMC should be made there. Special Thanks to GeyserMC for being a base software for us to modify. 
 
 ### Currently supporting Minecraft Bedrock v1.16.100 - v1.16.210 and Minecraft Java v1.16.4 - v1.16.5.
 
@@ -34,7 +30,7 @@ The following things can't be fixed because of Bedrock limitations. They might b
 4. Run `mvn clean install` and locate to the `target` folder.
 
 ## Contributing
-This project is in its Alpha stage and contributions should be made to the main Geyser build at this time. 
+This project is in its Alpha stage and contributions should be made to the main Geyser build at this time. Mian Geyser build can be found at https://geysermc.com
 
 ## Libraries Used:
 - [NukkitX Bedrock Protocol Library](https://github.com/NukkitX/Protocol)
