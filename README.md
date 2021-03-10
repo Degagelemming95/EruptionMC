@@ -34,8 +34,7 @@ The following things can't be fixed because of Bedrock limitations. They might b
 4. Run `mvn clean install` and locate to the `target` folder.
 
 ## Contributing
-Any contributions are appreciated. Please feel free to reach out to us on [Discord](http://discord.geysermc.org/) if
-you're interested in helping out with Geyser.
+This project is in its Alpha stage and contributions should be made to the main Geyser build at this time. 
 
 ## Libraries Used:
 - [NukkitX Bedrock Protocol Library](https://github.com/NukkitX/Protocol)
