@@ -7,7 +7,7 @@
 
 ErruptionMC is a fork of GeyserMC which is a bridge between Minecraft Bedrock and Java Edition. 
 
-Modified version of GeyserMC which is an open collaboration software by CubeCraft Games. This project is not affiliated with CubeCraft Games nor is this an official affiliate with GeyserMC.
+Modified version of GeyserMC which is an open collaboration software by CubeCraft Games. This project is not affiliated with CubeCraft Games nor any of their services including GeyserMC.
 
 Special thanks to the GeyserMC project for being a base software for us to modify!!
 
